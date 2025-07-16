@@ -1,8 +1,9 @@
 {
-  "scripts": {
+  "catalogs": {},
+  "aliases": {
     "qr-code-app": {
       "description": "QR code with logo app by Simon Scholz",
-      "file": "https://github.com/SimonScholz/qr-code-with-logo/releases/download/0.4.0/qr-code-app-all.jar"
+      "script-ref": "https://github.com/SimonScholz/qr-code-with-logo/releases/download/0.4.0/qr-code-app-all.jar"
     }
   }
 }
